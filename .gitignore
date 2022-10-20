@@ -22,3 +22,6 @@ vite-project/.vscode/extensions.json
 *.njsproj
 *.sln
 *.sw?
+
+*.map
+package-lock.json
